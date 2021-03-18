@@ -154,6 +154,10 @@ Draft picks can be part of a trade, even though some limits apply. [The roster s
 - Off-season rule changes require unanimous commissioner agreement and need to be made public to all teams before payment is due (if needed)
 - All changes made to the rules need to be written down in detail with responsible and date in the [Changelog section](#Changelog)
 
+### Communication
+
+- Team managers need to be available and pingable in the [St. Louis Blues Discord](https://discord.gg/5YQfyNY). This is where any communication takes place (e.g. rule changes, deadline information, reminders, etc.)
+
 ## Penalties
 
 ### Not being Contract Compliant by deadline
@@ -175,4 +179,4 @@ Action 2: If still not compliant, commissioners will randomly cancel contracts o
 
 ## Changelog
 
-- 2021-03-18: Initial version of document
+- v0.1 - 2021-03-18: Initial version of document

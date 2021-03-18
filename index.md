@@ -1,7 +1,9 @@
 # Blues Discord Keeper League Rules
 
 Date of last update: 2021-03-18
+
 Version: 0.1
+
 Authors: guccipotato#7117, zonk#2716
 
 ## Table of Contents
@@ -157,6 +159,7 @@ Draft picks can be part of a trade, even though some limits apply. [The roster s
 ### Not being Contract Compliant by deadline
 
 Action 1: Reminder send to team owner and new deadline is two days later
+
 Action 2: If still not compliant, commissioners will randomly cancel contracts of each length until the player is Contract Compliant
 
 

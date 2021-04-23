@@ -31,7 +31,7 @@ Authors: guccipotato#7117, zonk#2716
   - [Example Schedule](#Example-Schedule)
   - [Expansion Draft](#Expansion-Draft)
   - [Team Naming](#Team-Naming)
-  - [Team Abandonment](##Team-Abandonment)
+  - [Team Abandonment](#Team-Abandonment)
 - [Penalties](#Penalties)
   - [List of Penalties and Actions](#List-of-Penalties-and-Actions)
   - [Removal of a Manager by the Commissioners](#Removal-of-a-Manager-by-the-Commissioners)

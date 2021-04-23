@@ -30,6 +30,7 @@ Authors: guccipotato#7117, zonk#2716
   - [Communication](#Communication)
   - [Example Schedule](#Example-Schedule)
   - [Expansion Draft](#Expansion-Draft)
+  - [Team Naming](#Team-Naming)
   - [Team Abandonment](##Team-Abandonment)
 - [Penalties](#Penalties)
   - [List of Penalties and Actions](#List-of-Penalties-and-Actions)
@@ -209,6 +210,10 @@ The actual dates might be on slightly different dates, depending on availability
 ### Expansion Draft
 
 each team has to expose 1 player of each position? or keep number of exposed players variable, depending on how many new teams join and make it a team manager agreement during off-season
+
+### Team Naming
+
+To make it easier to track individual teams even when the team's manager changes between seasons, a team name consists of two parts: <Location, static> and <Name, chosen>. The location (can also be fictional) will be chosen when teams are initially created and need majority commissioner approval. This part will be stuck with the team then and can't be changed, even when the manager changes. The second part can be freely by the manager, but again needs majority commissioner approval. If a team's manager switches, the new manager is allowed to change this part of the team name, according to the same rules.
 
 ### Team Abandonment
 
